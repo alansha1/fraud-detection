@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/
+*.db
+*.sqlite3
+.pytest_cache/
+.coverage
+model/fraud_model.pkl
